@@ -8,6 +8,7 @@ package pruebapersona;
 import java.util.regex.Pattern;
 public class Persona {
 	//comentario
+	//segundo comentario 
  private String dni;
  private String nombre;
  private String apellidos;
