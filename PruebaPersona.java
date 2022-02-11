@@ -138,9 +138,6 @@ public class PruebaPersona {
         		System.out.println("prueba 2");
         		System.out.println("prueba 3.");
         }
-         
-     
-        
         
     }
     
