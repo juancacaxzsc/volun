@@ -132,12 +132,7 @@ public class PruebaPersona {
         int dif=arrayPersonas[0].diferenciaEdad(arrayPersonas[1]);
         System.out.println("Diferencia de edad: " + dif);
         
-        public class pureba{
-        	public static void main (String[]args) {
-        		System.out.print("prueba de git vountaria");
-        		System.out.println("prueba 2");
-        		System.out.println("prueba 3.");
-        }
+       
         
     }
     
