@@ -133,12 +133,17 @@ public class PruebaPersona {
         System.out.println("Diferencia de edad: " + dif);
         
         public class pureba{
+        	//comtario
         	public static void main (String[]args) {
         		System.out.print("prueba de git vountaria");
         		System.out.println("prueba 2");
         		System.out.println("prueba 3.");
-        }
         
+        	}
+        }
     }
     
 }
+
+
+
